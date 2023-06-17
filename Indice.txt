@@ -2,3 +2,5 @@ Hola, esta es una prueba del indice para hacer un clone de este repositorio, des
 Este archivo se descargo de un repositorio remoto.
 Ya le hice cambios en local, ahora subire estos cambios.
 Y deben de verse en la rama remota
+
+Ahora de forma remota hare unos cambios, simulando cambios realizados por otros devs.
